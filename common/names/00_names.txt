@@ -1,0 +1,15 @@
+WRL = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}

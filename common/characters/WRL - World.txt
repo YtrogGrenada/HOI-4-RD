@@ -1,0 +1,20 @@
+characters = {
+	WRL_God_Emperor = {
+		name = WRL_God_Emperor
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WRL/Portrait_Soviet_Joseph_Stalin.dds"
+			}
+			army = {
+				large = "gfx/leaders/WRL/Portrait_Soviet_Joseph_Stalin.dds"
+				small = "gfx/interface/ideas/idea_SOV_joseph_stalin.dds"
+			}
+		}
+		country_leader = {
+			ideology = stalinism
+			
+			expire = "1953.3.1.1"
+			id = -1
+		}
+	}
+}

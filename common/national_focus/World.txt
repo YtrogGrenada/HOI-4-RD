@@ -1,0 +1,50 @@
+focus_tree = {
+	id = WRL_first_tree
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = WRL
+			}
+	}
+	default = no
+		focus = {
+		id = WRL_The_Greatest_Country
+		icon = GFX_goal_support_fascism
+		cost = 1
+		ai_will_do = {
+			factor = 1
+		}
+		x = 5
+		y = 0
+		completion_reward = {
+			add_war_support = 0.05
+			load_focus_tree = WRL_second_tree
+		}
+	}
+}
+
+focus_tree = {
+	id = WRL_second_tree
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = WRL
+			}
+	}
+	default = no
+		focus = {
+		id = WRL_The_Greatest_Names
+		icon = GFX_goal_support_fascism
+		cost = 1
+		ai_will_do = {
+			factor = 1
+		}
+		x = 5
+		y = 0
+		completion_reward = {
+			add_war_support = 0.05
+		}
+	}
+}
