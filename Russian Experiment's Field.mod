@@ -10,7 +10,7 @@ replace_path="history/general"
 replace_path="events"
 replace_path="common/national_focus"
 replace_path="common/bookmarks"
-replace_path="common/decision"
+replace_path="common/decisions"
 replace_path="map"
 tags={
 	"Alternative History"
