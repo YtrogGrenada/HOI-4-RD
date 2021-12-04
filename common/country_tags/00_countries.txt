@@ -1,4 +1,4 @@
 WRL = "countries/World.txt"
 
-
+NNI = "countries/NorNickel.txt"
 	

@@ -1,0 +1,84 @@
+
+search_filter_prios = {
+	FOCUS_FILTER_POLITICAL = 1010
+
+	
+ 
+	
+	
+	FOCUS_FILTER_RESEARCH = 522
+
+	
+	FOCUS_FILTER_INDUSTRY = 509
+
+	FOCUS_FILTER_SOV_POLITICAL_PARANOIA = 111
+	FOCUS_FILTER_PROPAGANDA = 110
+	FOCUS_FILTER_ARMY_XP = 103
+	FOCUS_FILTER_NAVY_XP = 102
+	FOCUS_FILTER_AIR_XP = 101
+
+}
+
+focus_tree = {
+	id = NNI_focus_tree_step_one
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = NNI
+		}
+	}
+	default = no
+	focus = {
+		id = NNI_Make_a_speech
+		icon = GFX_focus_BUL_condemn_macedonian_organizations
+		cost = 10
+		x = 5
+		y = 0
+
+	}
+	focus = {
+		id = NNI_Justify_your_authority 
+		icon = GFX_focus_eng_imperial_federation
+		cost = 10
+		prerequisite = {
+			focus = NNI_Make_a_speech
+		}
+		x = 5
+		y = 1
+
+	}
+	focus = {
+		id = NNI_call_your_supporters
+		icon = GFX_focus_generic_diplomatic_treaty
+		cost = 10
+		prerequisite = {
+			focus = NNI_Justify_your_authority 
+		}
+		x = 5
+		y = 2
+
+	}
+	focus = {
+		id = NNI_form_your_goverment
+		icon = GFX_goal_tfv_strengthen_commonwealth_ties
+		cost = 10
+		prerequisite = {
+			focus = NNI_call_your_supporters
+		}
+		x = 5
+		y = 3
+
+	}
+	focus = {
+		id = NNI_Appoint_Prime_minister
+		icon = GFX_focus_eng_global_defense
+		cost = 10
+		prerequisite = {
+			focus = NNI_form_your_goverment
+		}
+		x = 5
+		y = 4
+
+	}
+}

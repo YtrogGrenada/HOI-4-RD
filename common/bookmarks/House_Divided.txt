@@ -7,9 +7,9 @@ bookmarks = {
 		default_country = "WRL"
 		default = yes
 		
-		"WRL" = {
-		history = '1'
-		ideology = communism
+		"NNI" = {
+		history = 'NNI_DESC_HISTORY'
+		ideology = neutrality
 		ideas ={}
 		focuses = {}
 		
