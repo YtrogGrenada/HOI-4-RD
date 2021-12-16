@@ -1,28 +1,29 @@
 state = {
-id = 2
-name = "Norilsk"
-state_category = megalopolis
-manpower = 6000000
-buildings_max_level_factor = 3
-provinces = {141 6785 145 6476 }
-history = {
-	owner = NNI
+	id = 2
+	name = "State_2"
+	state_category = town
+	manpower = 60000
+	resources={
+		steel=2 
+	}
+	buildings_max_level_factor = 1
+	provinces = {141 6785 145 6476 }
+	history = {
+		owner = NNI
 
-                controller = NNI
-
-		add_core_of = NNI
-
-		
-					
+		add_core_of = NNI WRL	
 		
 		victory_points = {
 			141 10
 		}
 		
 		buildings = {
-			infrastructure = 2
+			infrastructure = 10
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 2
 			
 
 		}
-}
+	}
 }

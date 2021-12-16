@@ -4,12 +4,12 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 2015.3.7.12
 		picture = "GFX_select_date_1936"
-		default_country = "WRL"
+		default_country = "NNI"
 		default = yes
 		
 		"NNI" = {
 		history = 'NNI_DESC_HISTORY'
-		ideology = neutrality
+		ideology = democratic_oligarchy
 		ideas ={}
 		focuses = {}
 		
