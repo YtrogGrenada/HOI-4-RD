@@ -1,0 +1,104 @@
+ideologies = {
+	rational_conservatic = {
+		types = {
+			rational_conservatism = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_RC_1"
+			"FACTION_NAME_RC_2"
+			"FACTION_NAME_RC_3"
+			"FACTION_NAME_RC_4"
+			"FACTION_NAME_RC_5"
+			"FACTION_NAME_RC_6"}
+		color = {0 51 204}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+		liberalistic = {
+		types = {
+			liberalism = {}
+			neoliberalism = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_LIBERALISM_1"
+			"FACTION_NAME_LIBERALIM_2"
+			"FACTION_NAME_LIBERALIM_3"
+			"FACTION_NAME_LIBERALIM_4"
+			"FACTION_NAME_LIBERALIM_5"
+			"FACTION_NAME_LIBERALIM_6"}
+		color = {0 143 205}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+		centristic = {
+		types = {
+			centrism = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_CENTER_1"
+			"FACTION_NAME_CENTER_2"
+			"FACTION_NAME_CENTER_3"
+			"FACTION_NAME_CENTER_4"
+			"FACTION_NAME_CENTER_5"
+			"FACTION_NAME_CENTER_6"}
+		color = {59 115 135}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+		pluralistic = {
+		types = {
+			pluralism = {}
+			populism = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_PLURALISM_1"
+			"FACTION_NAME_PLURALISM_2"
+			"FACTION_NAME_PLURALISM_3"
+			"FACTION_NAME_PLURALISM_4"
+			"FACTION_NAME_PLURALISM_5"
+			"FACTION_NAME_PLURALISM_6"}
+		color = {156 230 28}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+}

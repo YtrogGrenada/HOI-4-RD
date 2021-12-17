@@ -1,0 +1,102 @@
+ideologies = {
+	maskulistic = {
+		types = {
+			maskulism = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_MASKULISM_1"
+			"FACTION_NAME_MASKULISM_2"
+			"FACTION_NAME_MASKULISM_3"
+			"FACTION_NAME_MASKULISM_4"
+			"FACTION_NAME_MASKULISM_5"
+			"FACTION_NAME_MASKULISM_6"}
+		color = {239 108 200}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+	alternative_rights = {
+		types = {
+			altright = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_ALTRIGHT_1"
+			"FACTION_NAME_ALTRIGHT_2"
+			"FACTION_NAME_ALTRIGHT_3"
+			"FACTION_NAME_ALTRIGHT_4"
+			"FACTION_NAME_ALTRIGHT_5"
+			"FACTION_NAME_ALTRIGHT_6"}
+		color = {49 138 176}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+	nationalistic = {
+		types = {
+			nationalism = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_NATIONALISM_1"
+			"FACTION_NAME_NATIONALISM_2"
+			"FACTION_NAME_NATIONALISM_3"
+			"FACTION_NAME_NATIONALISM_4"
+			"FACTION_NAME_NATIONALISM_5"
+			"FACTION_NAME_NATIONALISM_6"}
+		color = {193 178 41}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+	teocratic = {
+		types = {
+			teocratism = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_TEOCRATISM_1"
+			"FACTION_NAME_TEOCRATISM_2"
+			"FACTION_NAME_TEOCRATISM_3"
+			"FACTION_NAME_TEOCRATISM_4"
+			"FACTION_NAME_TEOCRATISM_5"
+			"FACTION_NAME_TEOCRATISM_6"}
+		color = {255 255 255}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+}
