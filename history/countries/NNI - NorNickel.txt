@@ -45,9 +45,16 @@ set_national_unity = 0.7
 
     #adding ministers
     add_ideas = {
+	
+	
+	## Political Ideas
+		oligarchy
+		small
+		state_capitalism
+		
     }
 
-    add_political_power = 1198
+    add_political_power = 120
     
     #generic focuses
     complete_national_focus = army_effort

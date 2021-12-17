@@ -21,11 +21,11 @@ ideologies = {
 		modifiers = {
 			base_fuel_gain = 25
 			max_fuel = 100
-			consumer_goods_factor = -0.02
+			consumer_goods_fact= -0.15
+		}or = -0.02
 			production_oil_factor = 0.1
 			stability_factor = 0.1
-			war_support_factor = -0.15
-		}
+			war_support_factor 
 		faction_modifiers = {}
 		
 	}
