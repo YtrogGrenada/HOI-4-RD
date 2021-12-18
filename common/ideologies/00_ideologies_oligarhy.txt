@@ -1,5 +1,5 @@
 ideologies = {
-	democratic_oligarchy = {
+	democratic_oligarchic = {
 		types = {
 			democratic_oligarchy = {}
 		}
@@ -13,7 +13,7 @@ ideologies = {
 		color = {255 176 187}
 		war_impact_on_world_tension = 0
 		faction_impact_on_world_tension = 0
-		ai_fascism = yes
+		ai_democratic = yes
 			rules = {
 			can_force_government = no
 			can_send_volunteers = no
@@ -29,7 +29,7 @@ ideologies = {
 		faction_modifiers = {}
 		
 	}
-	fascist_oligarchy = {
+	fascist_oligarchic = {
 		types = {
 			corporativity_oligarchy = {}
 		}
@@ -43,7 +43,7 @@ ideologies = {
 		color = {87 87 87}
 		war_impact_on_world_tension = 0
 		faction_impact_on_world_tension = 0
-		ai_fascism = yes
+		ai_democratic = yes
 			rules = {
 			can_force_government = no
 			can_send_volunteers = no
