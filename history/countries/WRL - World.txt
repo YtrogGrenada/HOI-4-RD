@@ -116,55 +116,28 @@ set_national_unity = 0.7
 }
 
 set_politics = {
-
-    parties = {
-        democratic = { 
-            popularity = 30
-        }
-
-        fascism = {
-            popularity = 15
-        }
-        
-        communism = {
-            popularity = 15
-        }
-        
-        neutrality = { 
-            popularity = 50
-        }
-    }
-    
-    ruling_party = communism
-    elections_allowed = no
+	
+   ruling_party = marxfemistic
+   elections_allowed = no
+}
+ set_popularities = {
+	democracy_socialism = 5
+	marxfemistic = 80
+	stalinistic = 10
+	nazistic = 5
 }
 
 1939.1.1 = {
-    set_politics = {
-
-        parties = {
-            democratic = { 
-                popularity = 30
-            }
-
-            fascism = {
-                popularity = 15
-            }
-            
-            communism = {
-                popularity = 15
-            }
-            
-            neutrality = { 
-                popularity = 50
-            }
-        }
-        
-        ruling_party = communism
-        last_election = "1936.6.10"
-        election_frequency = 120
-        elections_allowed = no
-    }
+set_politics = {
+	
+   ruling_party = marxfemistic
+   elections_allowed = no
+}
+ set_popularities = {
+	democracy_socialism = 5
+	marxfemistic = 80
+	stalinistic = 10
+	nazistic = 5
 }
 
  
