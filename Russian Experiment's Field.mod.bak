@@ -58,4 +58,4 @@ tags={
 }
 name="Russian Experiment's Field"
 supported_version="1.11.*"
-path="mod/Russian Experiment's Field"
+path = "mod/Russian Experiment's Field"
