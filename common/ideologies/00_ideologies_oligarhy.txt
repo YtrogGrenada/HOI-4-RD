@@ -3,17 +3,11 @@ ideologies = {
 		types = {
 			democratic_oligarchy = {}
 		}
-		dynamic_faction_names = {
-			"FACTION_NAME_DEMOCRATIC_OLIGARCHY_1"
-			"FACTION_NAME_DEMOCRATIC_OLIGARCHY_2"
-			"FACTION_NAME_DEMOCRATIC_OLIGARCHY_3"
-			"FACTION_NAME_DEMOCRATIC_OLIGARCHY_4"
-			"FACTION_NAME_DEMOCRATIC_OLIGARCHY_5"
-			"FACTION_NAME_DEMOCRATIC_OLIGARCHY_6"}
+		
 		color = {255 176 187}
 		war_impact_on_world_tension = 0
 		faction_impact_on_world_tension = 0
-		ai_fascism = yes
+		
 			rules = {
 			can_force_government = no
 			can_send_volunteers = no
@@ -33,17 +27,11 @@ ideologies = {
 		types = {
 			corporativity_oligarchy = {}
 		}
-		dynamic_faction_names = {
-			"FACTION_NAME_DEMOCRATIC_OLIGARCHY_1"
-			"FACTION_NAME_DEMOCRATIC_OLIGARCHY_2"
-			"FACTION_NAME_DEMOCRATIC_OLIGARCHY_3"
-			"FACTION_NAME_DEMOCRATIC_OLIGARCHY_4"
-			"FACTION_NAME_DEMOCRATIC_OLIGARCHY_5"
-			"FACTION_NAME_DEMOCRATIC_OLIGARCHY_6"}
+		
 		color = {87 87 87}
 		war_impact_on_world_tension = 0
 		faction_impact_on_world_tension = 0
-		ai_fascism = yes
+		
 			rules = {
 			can_force_government = no
 			can_send_volunteers = no
@@ -68,14 +56,7 @@ ideologies = {
 			}
 		}
 		
-		dynamic_faction_names = {
-			"FACTION_NAME_DEMOCRATIC_1"
-			"FACTION_NAME_DEMOCRATIC_2"
-			"FACTION_NAME_DEMOCRATIC_3"
-			"FACTION_NAME_DEMOCRATIC_4"
-			"FACTION_NAME_DEMOCRATIC_5"
-			"FACTION_NAME_DEMOCRATIC_6"
-		}
+		
 		
 		color = { 138 198 243 }
 		
@@ -118,7 +99,7 @@ ideologies = {
 		faction_modifiers = {
 			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
 		}
-		ai_democratic = yes # uses the democratic AI behaviour
+		
 	}
 	
 	classic_oligarhic = {
@@ -129,14 +110,7 @@ ideologies = {
 			}
 		}
 		
-		dynamic_faction_names = {
-			"FACTION_NAME_DEMOCRATIC_1"
-			"FACTION_NAME_DEMOCRATIC_2"
-			"FACTION_NAME_DEMOCRATIC_3"
-			"FACTION_NAME_DEMOCRATIC_4"
-			"FACTION_NAME_DEMOCRATIC_5"
-			"FACTION_NAME_DEMOCRATIC_6"
-		}
+	
 		
 		color = { 255 255 255 }
 		
@@ -179,6 +153,6 @@ ideologies = {
 		faction_modifiers = {
 			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
 		}
-		ai_democratic = yes # uses the democratic AI behaviour
+		
 	}
 }

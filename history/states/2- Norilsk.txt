@@ -7,14 +7,14 @@ state = {
 		steel=2 
 	}
 	buildings_max_level_factor = 1
-	provinces = {141 6785 145 6476 }
+	provinces = {6785 145 6476 6786 3970}
 	history = {
 		owner = NNI
 
 		add_core_of = NNI WRL	
 		
 		victory_points = {
-			141 10
+			6786 10
 		}
 		
 		buildings = {

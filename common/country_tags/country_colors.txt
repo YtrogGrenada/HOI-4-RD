@@ -1,4 +1,0 @@
-NNI = {
-		color_ui = rgb {113 104 239}
-		color = rgb {41 29 210}
-}

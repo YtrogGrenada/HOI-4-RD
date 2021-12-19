@@ -3,42 +3,12 @@ capital = 2
 OOB = "NNI_1936"
 
 
-# Starting tech
-set_technology = {
-    infantry_weapons = 0
-    infantry_weapons1 = 0
-    tech_recon = 0
-    tech_support = 0        
-    tech_engineers = 0
-    tech_military_police = 0
-    tech_mountaineers = 0
-    motorised_infantry =0
-    paratroopers = 0
-    gw_artillery = 0
-    gwtank = 0
-    basic_light_tank = 1  # PLACEHOLDER
-    #basic_heavy_tank = 1  # PLACEHOLDER
-    #basic_medium_tank = 1 # PLACEHOLDER
-    early_fighter = 0
-    fighter1 = 0
-    early_bomber =0
-    strategic_bomber1 = 0
-    naval_bomber1 = 0
-    early_submarine = 0
-    basic_submarine = 0
-    early_destroyer = 0
-    early_light_cruiser = 0
-    early_heavy_cruiser = 0
-    early_battleship = 0
-    early_battlecruiser = 0
-    transport = 0
-    mass_assault = 0
-    fleet_in_being = 0
-}
 
 set_research_slots = 3
 set_convoys = 20
-set_national_unity = 0.7
+set_stability = 0.75
+set_war_support = 0
+add_command_power = 20
 
 
 
@@ -47,7 +17,7 @@ set_national_unity = 0.7
     add_ideas = {
     }
 
-    add_political_power = 1198
+    add_political_power = 1
     
     #generic focuses
     complete_national_focus = army_effort

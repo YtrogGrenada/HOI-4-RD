@@ -1,0 +1,28 @@
+state = {
+	id = 3
+	name = "State_3"
+	state_category = megalopolis
+	manpower = 6000000
+	buildings_max_level_factor = 3
+	provinces = {5431 7460 2501 7534}
+	history = {
+		owner = NNI
+
+              
+
+		add_core_of = NNI
+
+		
+					
+		
+		victory_points = {
+			2501 10
+		}
+		
+		buildings = {
+			infrastructure = 2
+			
+
+		}
+}
+}
