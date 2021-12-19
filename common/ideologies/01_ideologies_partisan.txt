@@ -1,0 +1,142 @@
+ideologies = {
+	partisan_communistic = {
+		types = {
+			partisan_stalinism = {}
+			partisan_trotskism = {}
+			partisan_maoism = {}
+			partisan_marxism = {}
+		}
+		dynamic_faction_names = {
+			}
+		color = {176 25 25}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+	partisan_nationalistic = {
+		types = {
+			partisan_monarchist = {}
+			partisan_nationalism = {}
+			partisan_fascism = {}
+		}
+		dynamic_faction_names = {
+			}
+		color = {199 132 32}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+	partisan_liberalistic = {
+		types = {
+			partisan_liberalism = {}
+		}
+		dynamic_faction_names = {
+			}
+		color = {32 178 158}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+	anarho_comministic = {
+		types = {
+			anascho_communism = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_ANARCHO_COMMUNISM_1"
+			"FACTION_NAME_ANARCHO_COMMUNISM_2"
+			"FACTION_NAME_ANARCHO_COMMUNISM_3"
+			"FACTION_NAME_ANARCHO_COMMUNISM_4"
+			"FACTION_NAME_ANARCHO_COMMUNISM_5"
+			"FACTION_NAME_ANARCHO_COMMUNISM_6"}
+		color = {210 8 8}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+	anarho_sindicalistic = {
+		types = {
+			anascho_sindicalism = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_ANARCHO_SINDICALISM_1"
+			"FACTION_NAME_ANARCHO_SINDICALISM_2"
+			"FACTION_NAME_ANARCHO_SINDICALISM_3"
+			"FACTION_NAME_ANARCHO_SINDICALISM_4"
+			"FACTION_NAME_ANARCHO_SINDICALISM_5"
+			"FACTION_NAME_ANARCHO_SINDICALISM_6"}
+		color = {204 0 0}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+	anarho_primitivistic = {
+		types = {
+			anarho_primitivistism = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_ANARCHO_PRIMITIVISM_1"
+			"FACTION_NAME_ANARCHO_PRIMITIVISM_2"
+			"FACTION_NAME_ANARCHO_PRIMITIVISM_3"
+			"FACTION_NAME_ANARCHO_PRIMITIVISM_4"
+			"FACTION_NAME_ANARCHO_PRIMITIVISM_5"
+			"FACTION_NAME_ANARCHO_PRIMITIVISM_6"}
+		color = {112 76 22}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+}

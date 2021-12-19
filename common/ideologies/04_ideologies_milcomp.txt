@@ -1,0 +1,27 @@
+ideologies = {
+	militaristic_prom = {
+		types = {
+			milprom = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_MILPROM_1"
+			"FACTION_NAME_MILPROM_2"
+			"FACTION_NAME_MILPROM_3"
+			"FACTION_NAME_MILPROM_4"
+			"FACTION_NAME_MILPROM_5"
+			"FACTION_NAME_MILPROM_6"}
+		color = {11 94 14}
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+		ai_fascism = yes
+			rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no}
+		modifiers = {
+
+		}
+		faction_modifiers = {}
+		
+	}
+}

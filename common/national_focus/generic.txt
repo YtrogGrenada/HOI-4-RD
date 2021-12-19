@@ -1,0 +1,9 @@
+focus_tree = {
+	id = DEF_Focus_Tree
+	country = {
+
+		factor = 0
+
+}
+default = yes
+}

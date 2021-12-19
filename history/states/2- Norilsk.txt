@@ -11,7 +11,7 @@ state = {
 	history = {
 		owner = NNI
 
-		add_core_of = NNI WRL	
+		add_core_of = NNI 	
 		
 		victory_points = {
 			6786 10
