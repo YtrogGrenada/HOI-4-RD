@@ -1,0 +1,14 @@
+state={
+	id=64
+	name="STATE_64"
+	provinces={
+		302 976 1056 1219 1227 1735 1996 2496 5449 6194 6624 8016 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	
+	history = {
+		owner = OLP
+		add_core_of = KRK NNI UVH OLP}
+}

@@ -1,0 +1,14 @@
+state={
+	id=66
+	name="STATE_66"
+	provinces={
+		631 1166 1233 1456 1678 1789 1881 2904 2934 3281 3569 4630 8211 8222 8287 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	
+	history = {
+		owner = KRK
+		add_core_of = KRK NNI}
+}

@@ -1,7 +1,7 @@
 ideologies = {
 	democratic_oligarchy = {
 		types = {
-			
+			democratic_oligarchic = {}
 		}
 		
 		color = {255 176 187}

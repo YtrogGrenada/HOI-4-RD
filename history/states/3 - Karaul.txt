@@ -6,18 +6,15 @@ state = {
 	buildings_max_level_factor = 3
 	provinces = {5431 7460 2501 7534}
 	history = {
-		owner = NNI
+		owner = UVH
 
               
 
-		add_core_of = NNI
+		add_core_of = UVH NNI
 
 		
 					
 		
-		victory_points = {
-			2501 10
-		}
 		
 		buildings = {
 			infrastructure = 2

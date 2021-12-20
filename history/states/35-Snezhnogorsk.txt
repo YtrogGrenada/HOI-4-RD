@@ -1,0 +1,14 @@
+state={
+	id=35
+	name="STATE_35"
+	provinces={
+		1302 2075 3846 4534 4652 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	
+	history = {
+		owner = KRK
+		add_core_of = KRK NNI UVH}
+}

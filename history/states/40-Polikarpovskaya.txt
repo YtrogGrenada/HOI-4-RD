@@ -1,0 +1,18 @@
+
+state={
+	id=40
+	name="STATE_40"
+
+	history={
+		owner = UVH
+		add_core_of = KRK
+		NNI UVH 
+	}
+
+	provinces={
+		2849 4817 5647 6750 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,17 @@
+characters = {
+	NNI_Vladimir_Potanin = {
+		name = NNI_Vladimir_Potanin
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NNI/NNI_Potanin.dds"
+			}
+
+		}
+		country_leader = {
+			ideology = democratic_oligarchic
+			
+			expire = "2030.1.1."
+			id = -1
+		}
+	}
+}

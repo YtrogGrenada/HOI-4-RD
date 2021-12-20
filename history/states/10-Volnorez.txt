@@ -1,0 +1,16 @@
+state={
+	id=10
+	name="STATE_10"
+	provinces={
+		42 1488 7288 7369 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	
+	history = {
+		owner = SOZ
+		add_core_of = KRK NNI UVH}
+
+
+}

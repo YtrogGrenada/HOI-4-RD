@@ -1,0 +1,14 @@
+state={
+	id=45
+	name="STATE_45"
+	provinces={
+		738 7551 7564 7580 7589 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	
+	history = {
+		owner = UVH
+		add_core_of = KRK NNI UVH}
+}

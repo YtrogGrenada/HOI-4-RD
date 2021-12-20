@@ -4,13 +4,13 @@ state = {
 	state_category = megalopolis
 	manpower = 6000000
 	buildings_max_level_factor = 3
-	provinces = {6308 5121 7415}
+	provinces = {6308 5121 7415 5934}
 	history = {
-		owner = NNI
+		owner = UVH
 
               
 
-		add_core_of = NNI
+		add_core_of = UVH NNI
 
 		
 					

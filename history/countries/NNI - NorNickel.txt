@@ -2,7 +2,7 @@ capital = 2
 
 OOB = "NNI_1936"
 
-
+recruit_character = NNI_Vladimir_Potanin
 
 set_research_slots = 3
 set_convoys = 20
@@ -19,68 +19,9 @@ add_command_power = 20
 
     add_political_power = 1
     
-    #generic focuses
-    complete_national_focus = army_effort
-    complete_national_focus = equipment_effort
-    complete_national_focus = motorization_effort
-    complete_national_focus = aviation_effort
-    complete_national_focus = naval_effort
-    complete_national_focus = flexible_navy
-    complete_national_focus = industrial_effort
-    complete_national_focus = construction_effort
-    complete_national_focus = production_effort
+   
     
-    set_technology = {
-        CAS1 = 1
-        improved_light_tank = 1 
-        basic_heavy_tank = 1    # Should be available in 1936 (T-35)
-        basic_medium_tank = 1 # Should be available in 1936 (T-28)
-        tactical_bomber1 = 1
-        interwar_artillery = 1
-        interwar_antitank = 1
-        interwar_antiair = 1
-        infantry_weapons2 = 1
-        support_weapons = 1
-        support_weapons2 = 1
-        paratroopers = 1
-        basic_submarine = 1
-        basic_destroyer = 1
-        basic_heavy_cruiser = 1
-
-        #doctrines
-        pocket_defence = 1
-        defence_in_depth = 1
-        battlefleet_concentration = 1
-        submarine_operations = 1
-
-        #Air
-        formation_flying = 1        
-        dive_bombing = 1
-        direct_ground_support = 1
-
-        #electronics
-        electronic_mechanical_engineering = 1
-        radio = 1
-        radio_detection = 1
-        mechanical_computing = 1
-        computing_machine = 1
-        basic_encryption = 1
-        basic_decryption = 1
-
-        #industry
-        basic_machine_tools = 1
-        improved_machine_tools = 1
-        advanced_machine_tools = 1
-        synth_oil_experiments = 1
-        oil_plant = 1
-        improved_oil_plant = 1
-        construction1 = 1
-        construction2 = 1
-        construction3 = 1
-        concentrated_industry = 1
-        concentrated_industry2 = 1
-        concentrated_industry3 = 1
-    }
+  
 
 
 set_politics = {
@@ -96,13 +37,5 @@ set_politics = {
 }
  
 
-create_country_leader ={ 
-	name = "Vladimir Potanin"
-	desc = "POLITICS_Potanin_DESC"
-	picture = "NNI_Potanin.dds"
-	expire = "2040.1.1.12"
-	ideology = democratic_oligarchy
-	traits = { }
-}
 
 

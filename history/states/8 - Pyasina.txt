@@ -1,10 +1,10 @@
 state = {
-	id = 4
-	name = "State_4"
+	id = 8
+	name = "State_8"
 	state_category = megalopolis
 	manpower = 6000000
 	buildings_max_level_factor = 3
-	provinces = {141 2043 4225}
+	provinces = {991 4988 384 3171}
 	history = {
 		owner = NNI
 

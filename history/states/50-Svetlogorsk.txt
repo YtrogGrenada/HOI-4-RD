@@ -1,0 +1,13 @@
+state={
+	id=50
+	name="STATE_50"
+	provinces={
+		21 774 3100 3327 7750 7827 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	history = {
+		owner = KRK
+		add_core_of = KRK NNI UVH}
+}

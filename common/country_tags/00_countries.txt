@@ -2,3 +2,10 @@ WRL = "countries/World.txt"
 
 NNI = "countries/NorNickel.txt"
 	
+UVH = "countries/Union Vahta.txt"
+
+OLP = "countries/Olenevodyy.txt"
+
+SOZ = "countries/State's Occupation Zone.txt"
+
+KRK = "countries/Krasnoyarckyy Kray.txt"

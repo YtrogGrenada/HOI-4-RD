@@ -29,3 +29,68 @@ NNI = {
 		  }
 	
 }
+
+UVH = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+OLP = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+
+SOZ = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+
+
+
+KRK = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}

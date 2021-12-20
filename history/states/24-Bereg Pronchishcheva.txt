@@ -1,0 +1,14 @@
+state={
+	id=24
+	name="STATE_24"
+	provinces={
+		521 880 931 1062 1113 3362 3616 4394 5028 5276 5761 6577 7033 7063 7069 7099 7160 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	
+	history = {
+		owner = SOZ
+		add_core_of = KRK NNI UVH}
+}

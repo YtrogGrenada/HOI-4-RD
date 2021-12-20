@@ -1,0 +1,14 @@
+state={
+	id=14
+	name="STATE_14"
+	provinces={
+		315 2011 2528 2619 3308 3902 5846 7000 7008 7015 7030 7049 7058 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+
+	history = {
+		owner = SOZ
+		add_core_of = NNI KRK}
+}
