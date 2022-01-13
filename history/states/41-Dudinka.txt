@@ -2,7 +2,7 @@
 state={
 	id=41
 	name="STATE_41"
-
+state_category = town
 	history={
 		owner = NNI
 		add_core_of = KRK
@@ -12,7 +12,7 @@ state={
 	provinces={
 		2340 2521 6476 
 	}
-	manpower=0
+	manpower=10000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

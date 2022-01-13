@@ -1,0 +1,39 @@
+capital = 2
+
+OOB = "RCU_1936"
+
+recruit_character = ICH_Ramzan_Kadyrov
+
+set_research_slots = 3
+set_convoys = 20
+set_stability = 0.75
+set_war_support = 0
+add_command_power = 20
+
+
+
+
+    #adding ministers
+    add_ideas = {
+    }
+
+    add_political_power = 1
+    
+   
+    
+  
+
+
+set_politics = {
+	
+   ruling_party = teocratic
+   elections_allowed = no
+}
+ set_popularities = {
+	teocratic = 60
+	fundamentalistic = 40
+}
+ 
+
+
+

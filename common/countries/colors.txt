@@ -1,29 +1,43 @@
 NNI = {
-		color_ui = rgb {113 104 239}
-		color = rgb {41 29 210}
+		color_ui = rgb {0 164 158}
+		color = rgb {0 164 158}
 }
 
 
 UVH = {
 		color_ui = rgb {26 255 26}
-		color = rgb {0 193 0}
+		color = rgb {26 255 26}
 
 
 }
 
 OLP = {
 		color_ui = rgb {221 209 215}
-		color = rgb {129 209 215}
+		color = rgb {221 209 215}
 
 }
 
 
 SOZ = {
-		color_ui = {26 0 255}
-		color = {126 0 255}
+		color_ui = rgb{26 0 255}
+		color = rgb {26 0 255}
 }
 
 KRK = {
-		color_ui = { 0 44 146 }
-		color_ui = { 100 44 146}
+		color_ui = rgb {23 23 71}
+		color = rgb {23 23 71}
 }
+
+RWD = {
+		color = rgb {255 0 0}
+		color_ui = rgb {255 0 0}}
+
+ICH = {
+		color = rgb {34 0 255}
+		color_ui = rgb {34 0 255}
+}
+
+RCU = {
+		color = rgb {0 255 255}
+		color_ui = rgb {0 255 255}
+}	

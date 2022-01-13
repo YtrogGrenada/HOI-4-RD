@@ -18,22 +18,14 @@ replace_path="map/supplyareas"
 replace_path="map/strategicregions"
 replace_path="common/ai_areas"
 replace_path="common/country_tags"
-replace_path = "common/units/names_divisions"
-replace_path = "common/units/names"
-
-
-
-
-replace_path = "common/technologies"
-replace_path = "common/technology_sharing"
-replace_path = "common/technology_tags"
-replace_path = "common/ai_areas"
-
-
-
-replace_path = "common/units/equipment"
-
-replace_path = "common/ai_strategy"
+replace_path="common/units/names_divisions"
+replace_path="common/units/names"
+replace_path="common/technologies"
+replace_path="common/technology_sharing"
+replace_path="common/technology_tags"
+replace_path="common/ai_areas"
+replace_path="common/units/equipment"
+replace_path="common/ai_strategy"
 tags={
 	"Alternative History"
 }

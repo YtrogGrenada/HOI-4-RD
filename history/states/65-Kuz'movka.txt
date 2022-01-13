@@ -4,10 +4,10 @@ state={
 	provinces={
 		236 599 2023 2317 2461 3491 3609 5145 6678 8050 8063 8136 
 	}
-	manpower=0
+	manpower=10000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	
+	state_category = town
 	history = {
 		owner = KRK
 		add_core_of = KRK NNI}

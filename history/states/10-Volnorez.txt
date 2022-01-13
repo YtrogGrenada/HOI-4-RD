@@ -4,13 +4,15 @@ state={
 	provinces={
 		42 1488 7288 7369 
 	}
-	manpower=0
+	manpower=10000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	
+	state_category = town
 	history = {
 		owner = SOZ
-		add_core_of = KRK NNI UVH}
+		add_core_of = KRK 
+		add_core_of = NNI 
+		add_core_of = UVH}
 
 
 }

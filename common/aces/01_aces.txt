@@ -1,0 +1,11 @@
+modifiers = {
+	fighter_genius = {
+		type = { fighter interceptor }
+		chance = 0.05
+		effect = {
+			air_attack_factor = 0.1
+			air_maximum_speed_factor = 0.08
+			air_agility_factor = 0.15
+		}
+	}
+}

@@ -8,7 +8,7 @@ characters = {
 
 		}
 		country_leader = {
-			ideology = democratic_oligarchic
+			ideology = classic_oligarhism
 			
 			expire = "2030.1.1."
 			id = -1

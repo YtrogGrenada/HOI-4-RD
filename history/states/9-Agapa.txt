@@ -5,9 +5,10 @@ state={
 	provinces={
 		1212 2268 2550 6540 7417 
 	}
-	manpower=0
+	manpower=10000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
+	state_category = town
 	history = {
 		owner = SOZ
 

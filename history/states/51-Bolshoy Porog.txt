@@ -5,11 +5,11 @@ state={
 	provinces={
 		14 72 231 626 1352 1432 1602 2188 2248 2353 2813 3091 4255 4775 5227 6075 6176 7658 7709 7798 7851 7884 
 	}
-	manpower=0
+	manpower=100000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 
-
+state_category = town
 	history = {
 		owner = OLP
 		add_core_of = OLP NNI}

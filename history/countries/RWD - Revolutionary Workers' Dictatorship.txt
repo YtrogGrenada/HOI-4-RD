@@ -1,0 +1,56 @@
+capital = 2
+
+OOB = "RCU_1936"
+
+recruit_character = RWD_Sergey_Biets
+
+set_research_slots = 3
+set_convoys = 20
+add_command_power = 20
+
+
+
+
+    
+    add_ideas = {
+	
+	
+		#adding ideas
+		oligarchy
+		small
+		market_economy
+		
+		
+		
+		#national spirit
+		
+		
+		
+    }
+	
+	
+	
+
+    add_political_power = 1
+    
+   
+    
+  
+
+country_event = {  }
+set_politics = {
+	
+   ruling_party = classic_oligarhic
+   elections_allowed = no
+}
+ set_popularities = {
+	democratic_oligarchy = 0
+	fascist_oligarchy = 47
+	technooligarhic = 3
+	classic_oligarhic = 35
+	social_democratic = 15
+}
+ 
+
+
+

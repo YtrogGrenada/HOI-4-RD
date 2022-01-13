@@ -94,3 +94,52 @@ KRK = {
 		  }
 	
 }
+
+RWD = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+
+
+ICH = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+
+RCU = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}

@@ -1,0 +1,17 @@
+characters = {
+	RWD_Sergey_Biets = {
+		name = RWD_Sergey_Biets
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RWD/Biets.dds"
+			}
+
+		}
+		country_leader = {
+			ideology = trotskism
+			
+			expire = "2030.1.1."
+			id = -1
+		}
+	}
+}

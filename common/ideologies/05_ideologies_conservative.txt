@@ -13,7 +13,7 @@ ideologies = {
 		color = {239 108 200}
 		war_impact_on_world_tension = 0
 		faction_impact_on_world_tension = 0
-		ai_fascism = yes
+		
 			rules = {
 			can_force_government = no
 			can_send_volunteers = no
@@ -38,7 +38,7 @@ ideologies = {
 		color = {49 138 176}
 		war_impact_on_world_tension = 0
 		faction_impact_on_world_tension = 0
-		ai_fascism = yes
+		
 			rules = {
 			can_force_government = no
 			can_send_volunteers = no
@@ -54,16 +54,11 @@ ideologies = {
 			nationalism = {}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_NATIONALISM_1"
-			"FACTION_NAME_NATIONALISM_2"
-			"FACTION_NAME_NATIONALISM_3"
-			"FACTION_NAME_NATIONALISM_4"
-			"FACTION_NAME_NATIONALISM_5"
-			"FACTION_NAME_NATIONALISM_6"}
+			}
 		color = {193 178 41}
 		war_impact_on_world_tension = 0
 		faction_impact_on_world_tension = 0
-		ai_fascism = yes
+		
 			rules = {
 			can_force_government = no
 			can_send_volunteers = no
@@ -88,7 +83,7 @@ ideologies = {
 		color = {255 255 255}
 		war_impact_on_world_tension = 0
 		faction_impact_on_world_tension = 0
-		ai_fascism = yes
+		
 			rules = {
 			can_force_government = no
 			can_send_volunteers = no

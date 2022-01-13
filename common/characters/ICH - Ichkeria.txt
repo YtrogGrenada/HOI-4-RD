@@ -1,0 +1,17 @@
+characters = {
+	ICH_Ramzan_Kadyrov = {
+		name = ICH_Ramzan_Kadyrov
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ICH/ICH_Ramzan_Kadyrov.dds"
+			}
+
+		}
+		country_leader = {
+			ideology = teocratism
+			
+			expire = "2030.1.1."
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=189
+	name="STATE_189"
+
+	history={
+		owner = ICH
+		add_core_of = ICH
+
+	}
+
+	provinces={
+		2410 3047 5936 8536 8545 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

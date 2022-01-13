@@ -9,3 +9,9 @@ OLP = "countries/Olenevodyy.txt"
 SOZ = "countries/State's Occupation Zone.txt"
 
 KRK = "countries/Krasnoyarckyy Kray.txt"
+
+RWD = "countries/Revolutionary Workers' Dictatorship.txt"
+
+ICH = "countries/Ichkeria.txt"
+
+RCU = "countries/Russian-Caucasian Unity.txt"

@@ -8,11 +8,11 @@ state={
 		add_core_of = KRK
 		NNI UVH 
 	}
-
+state_category = town
 	provinces={
 		2849 4817 5647 6750 
 	}
-	manpower=0
+	manpower=10000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

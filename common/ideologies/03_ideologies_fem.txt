@@ -13,7 +13,7 @@ ideologies = {
 		color = {250 22 83}
 		war_impact_on_world_tension = 0
 		faction_impact_on_world_tension = 0
-		ai_fascism = yes
+	
 			rules = {
 			can_force_government = no
 			can_send_volunteers = no
@@ -38,7 +38,7 @@ ideologies = {
 		color = {250 22 113}
 		war_impact_on_world_tension = 0
 		faction_impact_on_world_tension = 0
-		ai_fascism = yes
+		
 			rules = {
 			can_force_government = no
 			can_send_volunteers = no
@@ -63,7 +63,7 @@ ideologies = {
 		color = {250 22 159}
 		war_impact_on_world_tension = 0
 		faction_impact_on_world_tension = 0
-		ai_fascism = yes
+		
 			rules = {
 			can_force_government = no
 			can_send_volunteers = no
@@ -88,7 +88,7 @@ ideologies = {
 		color = {242 238 120}
 		war_impact_on_world_tension = 0
 		faction_impact_on_world_tension = 0
-		ai_fascism = yes
+	
 			rules = {
 			can_force_government = no
 			can_send_volunteers = no
@@ -113,7 +113,7 @@ ideologies = {
 		color = {168 242 120}
 		war_impact_on_world_tension = 0
 		faction_impact_on_world_tension = 0
-		ai_fascism = yes
+
 			rules = {
 			can_force_government = no
 			can_send_volunteers = no
