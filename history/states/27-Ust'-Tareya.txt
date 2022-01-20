@@ -10,5 +10,7 @@ state={
 	state_category = town
 	history = {
 		owner = SOZ
-		add_core_of = KRK NNI UVH}
+		add_core_of = KRK
+		add_core_of = NNI
+		add_core_of = UVH}
 }

@@ -4,6 +4,11 @@ state={
 	provinces={
 		2672 4498 8465 8494 
 	}
+	history={
+		owner = CLI
+		add_core_of = CLI
+
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

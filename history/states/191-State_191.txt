@@ -4,6 +4,11 @@ state={
 	provinces={
 		1332 4479 4923 5436 8504 
 	}
+	history={
+		owner = RCU
+		add_core_of = RCU
+
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

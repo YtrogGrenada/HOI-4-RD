@@ -4,6 +4,10 @@ state={
 	provinces={
 		2836 4054 6366 6475 6716 8331 8354 
 	}
+	history = {
+		owner = SBB
+		add_core_of = SBB
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

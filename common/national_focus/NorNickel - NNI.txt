@@ -1,3 +1,6 @@
+
+
+
 focus_tree = {
 	id = NNI_focus_tree_step_one
 	country = {
@@ -12,19 +15,18 @@ focus_tree = {
 		id = NNI_Make_a_speech
 		icon = GFX_focus_BUL_condemn_macedonian_organizations
 		cost = 10
-		x = 9
+		x = 5
 		y = 0
-		
-		
+
 	}
 	focus = {
-		id = NNI_Justify_your_authority
+		id = NNI_Justify_your_authority 
 		icon = GFX_focus_eng_imperial_federation
 		cost = 10
 		prerequisite = {
 			focus = NNI_Make_a_speech
 		}
-		x = 9
+		x = 5
 		y = 1
 
 	}
@@ -33,9 +35,9 @@ focus_tree = {
 		icon = GFX_focus_generic_diplomatic_treaty
 		cost = 10
 		prerequisite = {
-			focus = NNI_Justify_your_authority
+			focus = NNI_Justify_your_authority 
 		}
-		x = 9
+		x = 5
 		y = 2
 
 	}
@@ -46,7 +48,7 @@ focus_tree = {
 		prerequisite = {
 			focus = NNI_call_your_supporters
 		}
-		x = 9
+		x = 5
 		y = 3
 
 	}
@@ -57,274 +59,8 @@ focus_tree = {
 		prerequisite = {
 			focus = NNI_form_your_goverment
 		}
-		x = 9
-		y = 4
-			completion_reward = {
-					hidden_effect = {
-							mark_focus_tree_layout_dirty = yes
-						}
-				}
-
-	}
-	focus = {
-		id = NNI_Appoint_War_Minister
-		text = NNI_Appoint_War_Minister
-		icon = GFX_focus_generic_little_entente
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_Prime_minister
-		}
-		x = -7
-		y = 1
-		relative_position_id = NNI_Appoint_Prime_minister
-			allow_branch = {
-					has_completed_focus = NNI_Appoint_Prime_minister
-				}
-
-	}
-	focus = {
-		id = NNI_Appoint_the_Minister_of_Industry
-		text = NNI_Appoint_the_Minister_of_Industry
-		icon = GFX_focus_generic_industry_2
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_Prime_minister
-		}
-		x = -5
-		y = 1
-		relative_position_id = NNI_Appoint_Prime_minister
-			allow_branch = {
-					has_completed_focus = NNI_Appoint_Prime_minister
-				}
-
-	}
-	focus = {
-		id = NNI_Appoint_a_transport_minister
-		text = NNI_Appoint_a_transport_minister
-		icon = GFX_focus_BUL_bulgaria_on_the_three_seas
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_Prime_minister
-		}
-		x = -3
-		y = 1
-		relative_position_id = NNI_Appoint_Prime_minister
-			allow_branch = {
-					has_completed_focus = NNI_Appoint_Prime_minister
-				}
-
-	}
-	focus = {
-		id = NNI_Appoint_the_education_minister
-		icon = GFX_focus_BUL_found_the_brannik
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_Prime_minister
-		}
-		x = -1
-		y = 1
-		relative_position_id = NNI_Appoint_Prime_minister
-			allow_branch = {
-					has_completed_focus = NNI_Appoint_Prime_minister
-				}
-
-	}
-	focus = {
-		id = NNI_Learn_about_state_Army
-		text = NNI_Learn_about_state_Army
-		icon = GFX_focus_cze_military_research_institute
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_War_Minister
-		}
-		x = 0
-		y = 1
-		relative_position_id = NNI_Appoint_War_Minister
-
-	}
-	focus = {
-		id = NNI_Request_a_report
-		text = NNI_Request_a_report
-		icon = GFX_focus_POL_develop_polish_shipbuilding
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_the_Minister_of_Industry
-		}
-		x = 0
-		y = 1
-		relative_position_id = NNI_Appoint_the_Minister_of_Industry
-
-	}
-	focus = {
-		id = NNI_Identify_the_state_of_the_industry
-		text = NNI_Identify_the_state_of_the_industry
-		icon = GFX_goal_generic_army_motorized
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_a_transport_minister
-		}
-		x = 0
-		y = 1
-		relative_position_id = NNI_Appoint_a_transport_minister
-
-	}
-	focus = {
-		id = NNI_Set_tasks_to_educate_the_people
-		icon = GFX_focus_hol_the_foundations_of_defense
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_the_education_minister
-		}
-		x = 0
-		y = 1
-		relative_position_id = NNI_Appoint_the_education_minister
-
-	}
-	focus = {
-		id = NNI_Appoint_aviation_minister
-		icon = GFX_focus_generic_aircraft_production
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_Prime_minister
-		}
-		x = 1
-		y = 1
-		relative_position_id = NNI_Appoint_Prime_minister
-		allow_branch = {
-					has_completed_focus = NNI_Appoint_Prime_minister
-				}
-
-	}
-	focus = {
-		id = NNI_Prepare_Business_plan
-		text = NNI_Prepare_Business_plan
-		icon = GFX_goal_generic_navy_carrier
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_aviation_minister
-		}
-		x = 0
-		y = 1
-		relative_position_id = NNI_Appoint_aviation_minister
-		
-
-	}
-	focus = {
-		id = NNI_Appoint_shadow_minister
-		icon = GFX_focus_generic_self_management
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_Prime_minister
-		}
-		x = 3
-		y = 1
-		relative_position_id = NNI_Appoint_Prime_minister
-		allow_branch = {
-					has_completed_focus = NNI_Appoint_Prime_minister
-				}
-
-	}
-	focus = {
-		id = Forming_policy_batalions
-		text = Forming_policy_batalions
-		icon = GFX_focus_eng_move_to_secure_the_dominions
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_shadow_minister
-		}
-		x = 0
-		y = 1
-		relative_position_id = NNI_Appoint_shadow_minister
-
-	}
-	focus = {
-		id = NNI_Appoint_development_minister
-		icon = GFX_focus_AST_squander_bug
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_Prime_minister
-		}
 		x = 5
-		y = 1
-		relative_position_id = NNI_Appoint_Prime_minister
-		allow_branch = {
-					has_completed_focus = NNI_Appoint_Prime_minister
-				}
-
-	}
-	focus = {
-		id = NNI_Formulate_problems 
-		text = NNI_Formulate_problems 
-		icon = GFX_focus_generic_concessions
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_development_minister
-		}
-		x = 0
-		y = 1
-		relative_position_id = NNI_Appoint_development_minister
-
-	}
-	focus = {
-		id = NNI_Appoint_A_Foreign_Affairs_Minister
-		text = NNI_Appoint_A_Foreign_Affairs_Minister
-		icon = GFX_focus_generic_home_defense
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_Prime_minister
-		}
-		x = 7
-		y = 1
-		relative_position_id = NNI_Appoint_Prime_minister
-		allow_branch = {
-					has_completed_focus = NNI_Appoint_Prime_minister
-				}
-
-	}
-	focus = {
-		id = NNI_Start_Integration
-		text = NNI_Start_Integration
-		icon = GFX_goal_continuous_increase_nu
-		cost = 10
-		prerequisite = {
-			focus = NNI_Appoint_A_Foreign_Affairs_Minister
-		}
-		x = 0
-		y = 1
-		relative_position_id = NNI_Appoint_A_Foreign_Affairs_Minister
-
-	}
-	focus = {
-		id = NNI_The_Nickel_must_flow
-		icon = GFX_focus_generic_steel
-		cost = 10
-		prerequisite = {
-			focus = NNI_Learn_about_state_Army
-		}
-		prerequisite = {
-			focus = NNI_Request_a_report
-		}
-		prerequisite = {
-			focus = NNI_Identify_the_state_of_the_industry
-		}
-		prerequisite = {
-			focus = NNI_Set_tasks_to_educate_the_people
-		}
-		prerequisite = {
-			focus = NNI_Prepare_Business_plan
-		}
-		prerequisite = {
-			focus = Forming_policy_batalions
-		}
-		prerequisite = {
-			focus = NNI_Formulate_problems 
-		}
-		prerequisite = {
-			focus = NNI_Start_Integration
-		}
-		x = 0
 		y = 4
-		relative_position_id = NNI_Appoint_Prime_minister
 
 	}
 }

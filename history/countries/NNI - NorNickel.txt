@@ -2,34 +2,20 @@ capital = 2
 
 OOB = "NNI_1936"
 
-
+recruit_character = NNI_Vladimir_Potanin
 
 set_research_slots = 3
 set_convoys = 20
+set_stability = 0.75
+set_war_support = 0
 add_command_power = 20
 
 
 
 
-    
+    #adding ministers
     add_ideas = {
-	
-	
-		#adding ideas
-		oligarchy
-		small
-		market_economy
-		
-		
-		
-		#national spirit
-		
-		
-		
     }
-	
-	
-	
 
     add_political_power = 1
     
@@ -37,18 +23,17 @@ add_command_power = 20
     
   
 
-country_event = { id = NNI_news.1 days = 1 }
+
 set_politics = {
 	
-   ruling_party = classic_oligarhic
+   ruling_party = democratic_oligarchy
    elections_allowed = no
 }
  set_popularities = {
-	democratic_oligarchy = 0
-	fascist_oligarchy = 47
-	technooligarhic = 3
-	classic_oligarhic = 35
-	social_democratic = 15
+	democratic_oligarchy = 5
+	fascist_oligarchy = 80
+	technooligarhic = 10
+	classic_oligarhic = 5
 }
  
 

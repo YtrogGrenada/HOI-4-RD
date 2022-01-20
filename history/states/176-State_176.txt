@@ -3,8 +3,12 @@ state={
 	id=176
 	name="STATE_176"
 	provinces={
-		193 3141 3580 3603 3647 4392 8475 8485 8500 8502 
+		3141 3580 3603 3647 4392 8485 8500 8502 
 	}
+	history = {
+		owner = DIB
+		add_core_of = DIB
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

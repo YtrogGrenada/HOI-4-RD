@@ -1,8 +1,7 @@
-capital = 2
+capital = 188
+OOB = "KRK_1936"
 
-OOB = "RCU_1936"
 
-recruit_character = ICH_Ramzan_Kadyrov
 
 set_research_slots = 3
 set_convoys = 20
@@ -26,12 +25,14 @@ add_command_power = 20
 
 set_politics = {
 	
-   ruling_party = teocratic
+   ruling_party = democratic_oligarchy
    elections_allowed = no
 }
  set_popularities = {
-	teocratic = 60
-	fundamentalistic = 40
+	democratic_oligarchy = 5
+	fascist_oligarchy = 80
+	technooligarhic = 10
+	classic_oligarhic = 5
 }
  
 

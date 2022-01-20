@@ -4,6 +4,10 @@ state={
 	provinces={
 		4696 8314 8320 8325 8346 
 	}
+	history = {
+		owner = PMC
+		add_core_of = PMC
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

@@ -5,6 +5,11 @@ state={
 	provinces={
 		3287 3403 4168 4239 4841 5282 6345 8569 8576 8590 8607 
 	}
+
+	history = {
+
+	owner = RWD
+		add_core_of = RWD	}
 	manpower=100000
 	buildings_max_level_factor=1.000
 	

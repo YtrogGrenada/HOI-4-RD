@@ -9,7 +9,7 @@ bookmarks = {
 		
 		"NNI" = {
 		history = 'NNI_DESC_HISTORY'
-		ideology = classic_oligarhic
+		ideology = democratic_oligarchy
 		ideas ={}
 		focuses = {}
 		

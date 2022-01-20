@@ -1,0 +1,15 @@
+state={
+	id=387
+	name="STATE_387"
+	provinces={
+		2008 3667 4554 
+	}
+	
+	history = {
+		owner = CLI
+		add_core_of = CLI
+}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

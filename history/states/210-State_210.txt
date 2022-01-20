@@ -3,8 +3,12 @@ state={
 	id=210
 	name="STATE_210"
 	provinces={
-		428 1591 1649 3584 3992 5066 5528 8375 8418 8454 
+		1591 3992 5528 8454 
 	}
+	history = {
+		owner = CLI
+		add_core_of = CLI
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

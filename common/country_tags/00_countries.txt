@@ -10,8 +10,30 @@ SOZ = "countries/State's Occupation Zone.txt"
 
 KRK = "countries/Krasnoyarckyy Kray.txt"
 
-RWD = "countries/Revolutionary Workers' Dictatorship.txt"
+RWD = "countries/Revolutionary Workers Dictatorship.txt"
 
 ICH = "countries/Ichkeria.txt"
 
 RCU = "countries/Russian-Caucasian Unity.txt"
+
+CLI = "countries/Tempest Clique.txt"
+
+BUD = "countries/Buddha.txt"
+
+LCT = "countries/Libertarian Commune of Tikhoretsk.txt"
+
+COC = "countries/Cubanian Cossacks.txt"
+
+DIB = "countries/Division of Budanov.txt"
+
+RUR = "countries/Rubrum Renaissance.txt"
+
+SBB = "countries/Stalingrad bureau of the VKP(b).txt"
+
+NOV = "countries/Novorossia.txt"
+
+EOZ = "countries/European Occupation Zone.txt"
+
+PMC = "countries/PMC Wagner.txt"
+
+POP = "countries/Polite Peoples.txt"

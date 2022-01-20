@@ -111,7 +111,6 @@ RWD = {
 	
 }
 
-
 ICH = {
 	male = {
 		names = { Denonion Denchik Denizka Den Danone
@@ -129,6 +128,194 @@ ICH = {
 }
 
 RCU = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+
+CLI = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+
+BUD = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+
+LCT = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+
+COC = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+
+DIB = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+
+RUR = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+
+
+SBB = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+NOV = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+EOZ = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+PMC = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+POP = {
+	male = {
+		names = { Denonion Denchik Denizka Den Danone
+		}
+		callsigns = { "Krasava" "Monstr" "Schepushila"}
+	}
+	female = {
+		names = { Masha Anna Ira }
+		callsigns = { "Koza" "Dura" "Krasotka"}
+	}
+	surnames = { 
+			Denizov Denizovko Denizer
+		  }
+	
+}
+RUR = {
 	male = {
 		names = { Denonion Denchik Denizka Den Danone
 		}
