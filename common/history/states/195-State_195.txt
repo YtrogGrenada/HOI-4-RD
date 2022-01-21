@@ -1,0 +1,15 @@
+
+state={
+	id=195
+	name="STATE_195"
+	provinces={
+		2571 3282 5266 8412 8426 
+	}
+	history = {
+		owner = COC
+		add_core_of = COC
+}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

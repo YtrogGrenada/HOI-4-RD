@@ -4,6 +4,10 @@ state={
 	provinces={
 		1086 1770 1849 2324 3134 3687 4253 6310 6770 7911 
 	}
+	history = {
+		owner = NBM
+		add_core_of = NBM
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

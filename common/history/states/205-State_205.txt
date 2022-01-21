@@ -1,0 +1,14 @@
+state={
+	id=205
+	name="STATE_205"
+	provinces={
+		910 5131 6184 6263 6362 6481 8365 8374 
+	}
+	history = {
+		owner = COC
+		add_core_of = COC
+}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

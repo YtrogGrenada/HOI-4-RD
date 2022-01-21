@@ -4,6 +4,11 @@ state={
 	provinces={
 		516 1782 2444 2506 3419 5615 6458 8459 8493 
 	}
+
+	history = {
+		owner = AUM
+		add_core_of = AUM
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

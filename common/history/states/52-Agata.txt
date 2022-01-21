@@ -1,0 +1,15 @@
+
+state={
+	id=52
+	name="STATE_52"
+	provinces={
+		507 1569 1671 2192 3855 4934 6713 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = town
+	history = {
+		owner = OLP
+		add_core_of = KRK NNI UVH OLP}
+}

@@ -1,0 +1,17 @@
+
+state={
+	id=199
+	name="STATE_199"
+	provinces={
+		1801 2699 4530 4971 5030 5086 8537 
+	}
+
+	history={
+		owner = CLI
+		add_core_of = CLI
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

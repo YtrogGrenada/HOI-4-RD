@@ -111,3 +111,213 @@ POP = {
 		color_ui = rgb {255 45 45 }
 		color = rgb {255 45 45 }
 }
+
+RUF = {
+		color_ui = rgb {158 84 59}
+		color = rgb {158 84 59}
+}
+
+BRF = {
+		color_ui = rgb {110 250 110}
+		color = rgb {110 250 110}
+}
+
+LCM = {
+		color = rgb {255 255 0}
+		color_ui = rgb {255 255 0}
+}
+
+FCY = {
+		color_ui = rgb {226 192 0}
+		color = rgb {226 192 0}
+}
+
+MCV = {
+
+	color_ui = rgb {10 175 175}
+	color = rgb {10 175 175}
+
+}
+
+PAS = {
+
+	color_ui = rgb {255 70 70}
+	color = rgb {255 70 70}
+
+}
+
+PAN = {
+	color_ui = rgb {255 65 0}
+	color = rgb {255 65 0}
+
+
+}
+
+URZ = {
+	color_ui = rgb { 30 220 154 }
+	color = rgb { 30 220 154 }
+}
+
+MOR = {
+	color_ui = rgb {200 50 50}
+	color = rgb {200 50 50}
+}
+
+VOR = {
+	color_ui = rgb {50 205 115 }
+	color = rgb {50 205 115 }
+}
+
+OZB = {
+
+	color_ui = rgb {52 152 219}
+	color = rgb {52 152 219}
+}
+
+OZC = {
+	color = rgb {142 68 173}
+	color_ui = rgb {142 68 173}
+
+
+}
+
+
+LYA = {
+	color = rgb {240 25 25}
+	color_ui = rgb {240 25 25}
+
+}
+
+POM = {
+	color = rgb {45 60 80 }
+	color_ui = rgb {45 60 80 }
+
+}
+
+USD = {
+	color = rgb { 90 125 255 }
+	color_ui = rgb { 90 125 255 }
+}
+
+KAZ = {
+	color = rgb { 211 85 0 }
+	color_ui = rgb { 211 85 0 }
+
+}
+
+
+IZM = {
+	color = rgb { 50 55 60}
+	color_ui = rgb { 50 55 60}
+
+}
+
+CNP = {
+	color = rgb { 130 140 140 }
+	color_ui = rgb { 130 140 140 }
+
+
+}
+
+HYP = {
+	color = rgb { 250 120 80 }
+	color_ui = rgb { 250 120 80 }
+
+}
+
+
+PRI = {
+	color = rgb {20 210 20 }
+	color_ui = rgb {20 210 20 }
+
+}
+
+AGI = {
+	color = rgb { 255 15 130}
+	color_ui = rgb { 255 15 130}
+
+}
+
+
+AMS = {
+	color = rgb { 40 175 95}
+	color_ui = rgb { 40 175 95}
+}
+
+ANR = {
+	color = rgb { 255 175 145}
+	color_ui = rgb { 255 175 145}
+
+}
+
+MGA = {
+	color = rgb {155 90 180}
+	color_ui = rgb {155 90 180}
+}
+
+S51 = {
+	color = rgb { 255 222 4}
+	color_ui = rgb { 255 222 4}
+}
+
+NBM = {
+	color = rgb {175 35 155}
+	color_ui = rgb {175 35 155}
+}
+
+RCO = {
+	color = rgb {255 255 255}
+	color_ui = rgb {255 255 255}
+
+}
+
+AUM = {
+	color = rgb { 75 15 5 }
+	color_ui = rgb { 75 15 5 }
+
+}
+
+RIM = {
+	color = rgb {0 230 190}
+	color = rgb {0 230 190}
+
+}
+
+VAK = {
+	color = rgb { 45 205 115}
+	color_ui = rgb { 45 205 115}
+
+}
+
+LWM = {
+	color = rgb {140 140 130}
+	color_ui = rgb {140 140 130}
+}
+
+GSH = {
+	color = rgb { 30 155 245 }
+	color_ui = rgb { 30 155 245 }
+}
+
+EHG = {
+	color = rgb { 30 220 155 }
+	color_ui = rgb { 30 220 155 }
+
+}
+
+CSR = {
+	color = rgb { 230 175 65 }
+	color_ui = rgb { 230 175 65 }
+
+}
+
+TRP = {
+	color = rgb { 0 110 80 }
+	color_ui = rgb { 0 110 80 }
+
+}
+
+GOM = {
+	color = rgb { 0 0 0 }
+	color_ui = rgb { 0 0 0 }
+}

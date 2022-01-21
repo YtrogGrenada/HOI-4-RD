@@ -4,6 +4,11 @@ state={
 	provinces={
 		308 819 1075 1519 3270 4835 5310 6460 7031 7075 
 	}
+
+	history = {
+		owner = S51
+		add_core_of = S51
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

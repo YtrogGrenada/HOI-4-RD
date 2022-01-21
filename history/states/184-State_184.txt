@@ -3,8 +3,13 @@ state={
 	id=184
 	name="STATE_184"
 	provinces={
-		695 1132 1798 2720 4081 4927 5239 8283 8322 8347 
+		695 1132 1798 1813 2720 4081 4927 5236 5239 8283 8322 8347 
 	}
+
+	history = {
+		owner = ANR
+		add_core_of = ANR
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

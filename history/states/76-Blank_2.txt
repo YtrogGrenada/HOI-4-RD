@@ -5,6 +5,11 @@ state={
 	provinces={
 		322 603 764 2048 2972 3056 3325 4656 5143 6604 8146 8274 
 	}
+
+	history = {
+		owner = AMS
+		add_core_of = AMS
+}
 	manpower=10000000
 	buildings_max_level_factor=1.000
 	state_category=town

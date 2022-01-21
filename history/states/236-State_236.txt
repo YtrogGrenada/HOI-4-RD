@@ -4,6 +4,10 @@ state={
 	provinces={
 		5327 6595 7850 7873 
 	}
+	history = {
+		owner = LCM
+		add_core_of = LCM
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

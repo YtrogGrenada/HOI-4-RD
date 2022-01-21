@@ -4,6 +4,11 @@ state={
 	provinces={
 		752 1592 1890 2668 2915 3276 3499 4052 4642 4717 5616 6726 6735 8513 8553 8620 
 	}
+
+	history = {
+		owner = RIM
+		add_core_of = RIM
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

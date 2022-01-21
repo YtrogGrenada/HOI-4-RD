@@ -1,0 +1,14 @@
+state={
+	id=30
+	name="STATE_30"
+	provinces={
+		290 1416 2007 3908 7535 7576 
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = town
+	history = {
+		owner = OLP
+		add_core_of = KRK NNI UVH OLP}
+}

@@ -4,6 +4,10 @@ state={
 	provinces={
 		53 212 530 2229 2652 3139 4123 6260 8399 
 	}
+	history = {
+		owner = GSH
+		add_core_of = GSH
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

@@ -1,0 +1,29 @@
+
+state={
+	id=9
+	name="STATE_9"
+	provinces={
+		1212 2268 2550 6540 7417 
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = town
+	history = {
+		owner = SOZ
+
+              
+
+		add_core_of = UVH NNI
+
+		
+					
+		
+		
+		buildings = {
+			infrastructure = 2
+			
+
+		}
+}
+}

@@ -5,6 +5,12 @@ state={
 	provinces={
 		1315 1912 2399 3986 4110 5695 6680 7795 7797 
 	}
+
+
+	history = {
+		owner = CNP
+		add_core_of = CNP
+}
 	manpower=10000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

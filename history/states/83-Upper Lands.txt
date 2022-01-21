@@ -4,6 +4,12 @@ state={
 	provinces={
 		362 895 2064 2250 2592 2601 2663 3302 3764 3893 5701 5741 6092 6782 7396 7402 7436 7472 7489 
 	}
+
+
+	history = {
+		owner = OZC
+		add_core_of = OZC
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

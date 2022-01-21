@@ -1,0 +1,26 @@
+
+state={
+	id=4
+	name="State_4"
+
+	history={
+		owner = NNI
+		add_core_of = NNI
+		victory_points = {
+			2501 10 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		141 2043 4225 
+	}
+	manpower=6000000
+	buildings_max_level_factor=3.000
+	state_category=megalopolis
+	local_supplies=0.000
+}

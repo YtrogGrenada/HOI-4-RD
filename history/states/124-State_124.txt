@@ -4,6 +4,11 @@ state={
 	provinces={
 		500 2962 4501 5837 5984 7663 7733 
 	}
+
+	history = {
+		owner = USD
+		add_core_of = USD
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

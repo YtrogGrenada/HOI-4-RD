@@ -4,6 +4,10 @@ state={
 	provinces={
 		3359 3934 6132 6553 8145 
 	}
+	history = {
+		owner = PAS
+		add_core_of = PAS
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

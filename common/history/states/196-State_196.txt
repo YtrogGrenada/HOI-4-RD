@@ -1,0 +1,15 @@
+state={
+	id=196
+	name="STATE_196"
+	provinces={
+		5508 5850 6592 8364 8382 8421 
+	}
+
+	history = {
+		owner = EOZ
+		add_core_of = EOZ
+}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

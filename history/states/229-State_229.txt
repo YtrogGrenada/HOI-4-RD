@@ -4,6 +4,10 @@ state={
 	provinces={
 		606 1821 1925 2252 4581 5688 8140 8157 8174 
 	}
+	history = {
+		owner = VOR
+		add_core_of = VOR
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

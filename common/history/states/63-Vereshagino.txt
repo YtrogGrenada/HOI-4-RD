@@ -1,0 +1,15 @@
+
+state={
+	id=63
+	name="STATE_63"
+	provinces={
+		17 1802 2427 2778 4071 4594 4861 5301 8202 
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = town
+	history = {
+		owner = KRK
+		add_core_of = KRK NNI}
+}

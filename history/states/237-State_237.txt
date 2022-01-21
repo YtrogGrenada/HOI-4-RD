@@ -1,8 +1,16 @@
+
 state={
 	id=237
 	name="STATE_237"
+
+	history={
+		owner = LCM
+		add_core_of = LCM
+
+	}
+
 	provinces={
-		1244 2452 2628 3058 7828 
+		1244 3058 7828 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

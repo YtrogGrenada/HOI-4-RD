@@ -4,6 +4,11 @@ state={
 	provinces={
 		1029 1404 4204 4728 6398 8420 8461 
 	}
+
+	history = {
+		owner = MGA
+		add_core_of = MGA
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

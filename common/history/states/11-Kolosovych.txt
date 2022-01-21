@@ -1,0 +1,14 @@
+state={
+	id=11
+	name="STATE_11"
+	provinces={
+		216 418 1950 3083 3601 5996 7180 7253 
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = town
+	history = {
+		owner = SOZ
+		add_core_of = KRK NNI UVH}
+}

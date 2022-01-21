@@ -5,6 +5,11 @@ state={
 	provinces={
 		1324 1384 1783 2439 2710 2916 4569 4940 6070 8186 
 	}
+
+	history = {
+		owner = AMS
+		add_core_of = AMS
+}
 	manpower=10000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

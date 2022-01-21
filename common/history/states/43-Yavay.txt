@@ -1,0 +1,14 @@
+state={
+	id=43
+	name="STATE_43"
+	provinces={
+		1281 5350 6634 7278 7311 7352 9313 
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = town
+	history = {
+		owner = UVH
+		add_core_of = KRK NNI UVH}
+}

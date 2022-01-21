@@ -4,6 +4,11 @@ state={
 	provinces={
 		2114 3702 4873 5209 5273 6454 8162 
 	}
+
+	history = {
+		owner = AGI
+		add_core_of = AGI
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

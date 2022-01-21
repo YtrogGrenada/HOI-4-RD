@@ -37,3 +37,75 @@ EOZ = "countries/European Occupation Zone.txt"
 PMC = "countries/PMC Wagner.txt"
 
 POP = "countries/Polite Peoples.txt"
+
+RUF = "countries/Russian Federation.txt"
+
+BRF = "countries/Beautiful Russia of the future .txt"
+
+LCM = "countries/Libertarian Commune of Moscow.txt"
+
+FCY = "countries/Feminist Commune of Yaroslavl.txt"
+
+MCV = "countries/Masculine Commune of Vologda.txt"
+
+PAS = "countries/South Partisan Army.txt"
+
+PAN = "countries/North Partisan Army.txt"
+
+URZ = "countries/Union of Rescue Zeks.txt"
+
+MOR = "countries/Mordor.txt"
+
+VOR = "countries/Republic of Volga.txt"
+
+OZB = "countries/Occupation Zone of Britain.txt"
+
+OZC = "countries/Occupation Zone of Canada.txt"
+
+LYA = "countries/Lyadov's GULag.txt"
+
+POM = "countries/Pomorian Republic.txt"
+
+USD = "countries/Uncertain Republic of the State Duma.txt"
+
+KAZ = "countries/Kazanian Republic.txt"
+
+IZM = "countries/IzhMash"
+
+CNP = "countries/Confederation of the North Peoples.txt"
+
+HYP = "countries/Hyperborea.txt"
+
+PRI = "countries/Primitive's Land.txt"
+
+AGI = "countries/Sverdlovsk's Agitclub.txt"
+
+AMS = "countries/American's Sloboda.txt"
+
+ANR = "countries/Another Russia.txt"
+
+MGA = "countries/Military Government of Altay.txt"
+
+S51 = "countries/51 State.txt"
+
+NBM = "countries/Nation of Bicycleman.txt"
+
+RCO = "countries/Religious Communities"
+
+AUM = "countries/Aum Shinrikyo.txt"
+
+RIM = "countries/Rightest Maoist.txt"
+
+VAK = "countries/Vako.txt"
+
+LWM = "countries/Left Wing of Maoist.txt"
+
+GSH = "countries/Great Siberian Hural.txt"
+
+EHG = "countries/Evenki Hunting Grounds.txt"
+
+CSR = "countries/Confederate States of Russia.txt"
+
+TRP = "countries/The True Russia of Putin.txt"
+
+GOM = "countries/Ghost of Moscow.txt"

@@ -4,6 +4,11 @@ state={
 	provinces={
 		1953 2079 3070 3201 5189 5586 8102 8151 
 	}
+
+	history = {
+		owner = RCO
+		add_core_of = RCO
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

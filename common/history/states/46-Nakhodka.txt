@@ -1,0 +1,14 @@
+state={
+	id=46
+	name="STATE_46"
+	provinces={
+		1182 1505 3019 3798 7617 7647 7708 
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = town
+	history = {
+		owner = KRK
+		add_core_of = KRK NNI UVH}
+}

@@ -1,9 +1,14 @@
+
 state={
 	id=222
 	name="STATE_222"
 	provinces={
 		893 1068 3539 3823 5836 7842 7865 7898 7907 
 	}
+	history = {
+		owner = PAN
+		add_core_of = PAN
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

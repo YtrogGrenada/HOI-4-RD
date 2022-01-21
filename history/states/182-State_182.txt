@@ -4,6 +4,11 @@ state={
 	provinces={
 		1377 2975 5128 5744 8315 8324 8341 8353 
 	}
+
+	history = {
+		owner = PRI
+		add_core_of = PRI
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

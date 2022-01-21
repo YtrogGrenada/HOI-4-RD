@@ -4,6 +4,10 @@ state={
 	provinces={
 		959 2937 3360 3765 7686 
 	}
+	history = {
+		owner = MCV
+		add_core_of = MCV
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

@@ -1,0 +1,28 @@
+state = {
+	id = 7
+	name = "State_7"
+	state_category = megalopolis
+	manpower = 6000000
+	buildings_max_level_factor = 3
+	provinces = {7308 7321 5437 3947 3156 5253 2800}
+	history = {
+		owner = UVH
+
+              
+
+		add_core_of = UVH NNI
+
+		
+					
+		
+		victory_points = {
+			2501 10
+		}
+		
+		buildings = {
+			infrastructure = 2
+			
+
+		}
+}
+}

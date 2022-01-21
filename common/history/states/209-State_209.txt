@@ -1,0 +1,14 @@
+state={
+	id=209
+	name="STATE_209"
+	provinces={
+		2443 2458 4937 6245 6489 8397 8402 
+	}
+	history = {
+		owner = COC
+		add_core_of = COC
+}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

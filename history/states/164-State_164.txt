@@ -4,6 +4,11 @@ state={
 	provinces={
 		1845 2108 2770 4476 4505 6472 
 	}
+
+	history = {
+		owner = IZM
+		add_core_of = IZM
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

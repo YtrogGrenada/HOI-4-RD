@@ -26,6 +26,8 @@ replace_path="common/technology_tags"
 replace_path="common/ai_areas"
 replace_path="common/units/equipment"
 replace_path="common/ai_strategy"
+
+replace_path = "gfx/loadingscreens"
 tags={
 	"Alternative History"
 }

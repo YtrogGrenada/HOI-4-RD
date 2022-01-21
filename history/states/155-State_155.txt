@@ -4,6 +4,10 @@ state={
 	provinces={
 		620 749 760 2489 2993 3745 4443 8184 8207 
 	}
+	history = {
+		owner = ANR
+		add_core_of = ANR
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

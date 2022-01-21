@@ -4,6 +4,10 @@ state={
 	provinces={
 		207 1381 2406 3298 4380 7852 
 	}
+	history = {
+		owner = PAN
+		add_core_of = PAN
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

@@ -1,0 +1,20 @@
+
+state={
+	id=186
+	name="STATE_186"
+	provinces={
+		4924 8633 
+	}
+
+	history = {
+
+	owner = ICH
+		add_core_of = ICH	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	
+	
+
+	
+	local_supplies=0.000
+}

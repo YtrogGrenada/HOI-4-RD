@@ -4,6 +4,10 @@ state={
 	provinces={
 		807 2046 2669 4702 4985 5082 6043 6242 7977 
 	}
+	history = {
+		owner = KAZ
+		add_core_of = KAZ
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

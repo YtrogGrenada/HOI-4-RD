@@ -4,6 +4,11 @@ state={
 	provinces={
 		192 598 1489 2179 2374 2726 2897 3179 3366 3385 4174 4196 4231 4993 5700 6779 7170 7199 7208 7218 7234 7245 7282 7320 7335 7365 7368 7374 
 	}
+
+	history = {
+		owner = OZB
+		add_core_of = OZB
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

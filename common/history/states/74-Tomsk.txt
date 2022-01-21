@@ -1,0 +1,16 @@
+
+state={
+	id=74
+	name="STATE_77"
+	provinces={
+		142 1571 2819 3752 4540 5997 8332 8344 8345 8372 8411 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	
+	state_category = town
+	history = {
+		owner = KRK
+		add_core_of = KRK NNI}
+}

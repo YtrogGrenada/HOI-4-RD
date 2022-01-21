@@ -1,0 +1,16 @@
+state={
+	id=185
+	name="STATE_185"
+	provinces={
+		818 4697 6461 8649 8670 
+	}
+
+	history = {
+
+	owner = RWD
+		add_core_of = RWD	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.000
+}

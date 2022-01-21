@@ -5,6 +5,11 @@ state={
 	provinces={
 		905 1145 1165 2415 3182 4737 6462 8530 
 	}
+
+	history = {
+		owner = MGA
+		add_core_of = MGA
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

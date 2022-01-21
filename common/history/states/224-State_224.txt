@@ -1,0 +1,15 @@
+
+state={
+	id=224
+	name="STATE_224"
+	provinces={
+		5480 8293 8306 
+	}
+	history = {
+		owner = PMC
+		add_core_of = PMC
+}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

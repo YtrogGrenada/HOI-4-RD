@@ -1,0 +1,14 @@
+state={
+	id=390
+	name="STATE_390"
+	provinces={
+		428 4437 6374 8418 
+	}
+	history = {
+		owner = BUD
+		add_core_of = BUD
+}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

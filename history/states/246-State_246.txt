@@ -4,6 +4,10 @@ state={
 	provinces={
 		1144 2494 3924 5176 5507 6142 8096 8116 
 	}
+	history = {
+		owner = RUF
+		add_core_of = RUF
+}
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
